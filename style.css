@@ -16,7 +16,8 @@ body * {
 }
 #container {
   /*border: 1px solid red; #Borda de note para deixar a imagem alinhada*/
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
